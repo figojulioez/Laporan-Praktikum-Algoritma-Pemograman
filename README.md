@@ -11,3 +11,7 @@ Week 3: https://medium.com/@figojulioez/python-manipulasi-file-e7fdb5e60874
 Week 4: https://medium.com/@figojulioez/python-kondisi-di-python-2b0a04d99bae
 <br />
 Week 5: https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c
+<br />
+Week 6: https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c
+<br />
+Lap uts: https://medium.com/@figojulioez/python-latihan-uts-6bf47f69178b
