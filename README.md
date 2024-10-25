@@ -15,3 +15,5 @@ Week 5: https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c
 Week 6: https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c
 <br />
 Lap uts: https://medium.com/@figojulioez/python-latihan-uts-6bf47f69178b
+<br />
+Week 8: https://medium.com/@figojulioez/python-collection-c1aaabe93302
