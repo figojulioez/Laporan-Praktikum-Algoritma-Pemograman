@@ -17,3 +17,14 @@ Week 6: https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c
 Lap uts: https://medium.com/@figojulioez/python-latihan-uts-6bf47f69178b
 <br />
 Week 8: https://medium.com/@figojulioez/python-collection-c1aaabe93302
+<br />
+Week 9: https://medium.com/@figojulioez/python-function-a74d055d4867
+<br />
+Week 10: https://medium.com/@figojulioez/python-module-5e1d2689f1f5
+<br />
+Week 11:https://medium.com/@figojulioez/python-try-except-af9b6243f776
+<br />
+Week 12:https://medium.com/@figojulioez/python-clasess-and-object-295b1113d795
+
+
+
